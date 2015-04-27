@@ -1,0 +1,54 @@
+commit bbe65bb62be0397089c60d1181fa180b859e24c6
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sat Apr 25 21:54:28 2015 -0500
+
+    Corrigiendo slide, borrando fotos innecesarias
+
+commit fa50000034aabbc21a52dfa695cd0e43d6477e27
+Merge: 3cb370a dd26de0
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sat Apr 25 21:45:35 2015 -0500
+
+    Correcion de commit soft
+
+commit 3cb370ad9bfe1c9f99dbef0ef8b6fb8711a2f505
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sat Apr 25 21:34:20 2015 -0500
+
+    Agregando cambios en slide 3 fotos
+
+commit dd26de020112dca7d72c0f1777c93a7bc4050ee5
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Tue Apr 21 12:19:01 2015 -0500
+
+    correccion del mensaje de bienvenida
+
+commit 89a69b70e2ea58302023130400a6641b267ba73e
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sun Apr 12 20:33:31 2015 -0500
+
+    correccion del enlace twitter
+
+commit cc21e4ae7146076642bb1188877a15233177b47e
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sun Apr 12 15:39:52 2015 -0500
+
+    Agregado cambios en link sociales y perfil
+
+commit 05c97d91b1a29fce1be1d1f3c2de17ffe2f3768a
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sun Apr 12 14:17:13 2015 -0500
+
+    cambio nombre .html de portafolio a index
+
+commit 9f8e3dcc1a2f54b7583b8d0c8c1fb7e5c2b04607
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sun Apr 12 14:11:11 2015 -0500
+
+    Acomodando los lick de html
+
+commit f22f3d3a6dda856d10e2904ebeb6095342df3f28
+Author: Emilio Nuñez <emiliojes@gmail.com>
+Date:   Sun Apr 12 13:58:06 2015 -0500
+
+    portafolio
