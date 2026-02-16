@@ -67,8 +67,8 @@ I enjoy transforming complex technology concepts into engaging and practical lea
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: *(add your link)*
-- 💻 GitHub: *(add your link)*
+- 💼 LinkedIn: [www.linkedin.com/in/emiliojnunezp](https://www.linkedin.com/in/emiliojnunezp)
+- 💻 GitHub: [https://github.com/emiliojes](https://github.com/emiliojes)
 
 ---
 
