@@ -23,23 +23,27 @@ I enjoy transforming complex technology concepts into engaging and practical lea
 ## 🧠 Skills & Technologies
 
 ### 👨‍💻 Programming
+
 - Python
 - HTML & CSS
 - JavaScript Basics
 - Git & GitHub
 
 ### 🤖 Artificial Intelligence
+
 - AI fundamentals & concepts
 - Prompt engineering basics
 - Automation & productivity tools
 - AI for education
 
 ### 🌐 IT & Networking
+
 - Structured Cabling
 - Network setup & organization
 - Hardware troubleshooting
 
 ### 🤖 Robotics & STEM
+
 - VEX IQ Robotics
 - Sensors & automation
 - Engineering design thinking
@@ -69,6 +73,7 @@ I enjoy transforming complex technology concepts into engaging and practical lea
 
 - 💼 LinkedIn: [www.linkedin.com/in/emiliojnunezp](https://www.linkedin.com/in/emiliojnunezp)
 - 💻 GitHub: [https://github.com/emiliojes](https://github.com/emiliojes)
+- 🌐 GitHub Pages: [emiliojes.github.io](emiliojes.github.io)
 
 ---
 
